@@ -9,7 +9,7 @@ class AlertScreen extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Alert Screen'),
       ),
-      body: Center(
+      body: const Center(
         child: Text('AlertScreen'),
       ),
     );
